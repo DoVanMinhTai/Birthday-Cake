@@ -4,10 +4,11 @@ A full-stack web application for ordering customizable birthday cakes. This proj
 
 ## Example Screenshot:
 
-
-![Screenshot](screenshot/img.png) 
-![Screenshot](screenshot/img_1.png) 
-![Screenshot](screenshot/img_2.png) 
+<p align="center">
+  <img src="screenshot/img.png" width="300" height="200" />
+  <img src="screenshot/img_1.png" width="300" height="200" />
+  <img src="screenshot/img_2.png" width="300" height="200" />
+</p>
 
 ---
 
