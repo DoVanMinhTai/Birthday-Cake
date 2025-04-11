@@ -2,7 +2,9 @@
 
 A full-stack web application for ordering customizable birthday cakes. This project was developed by a team of three using **Java Servlet**, **JSP**, **MySQL**, and modern frontend tools. It features user authentication, cart management, order processing, and an admin dashboard for managing products and orders.
 
-Example Screenshot:
+## Example Screenshot:
+
+
 ![Screenshot](screenshot/img.png) 
 ![Screenshot](screenshot/img_1.png) 
 ![Screenshot](screenshot/img_2.png) 
