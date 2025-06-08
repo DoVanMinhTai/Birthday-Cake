@@ -64,5 +64,5 @@ Start the Tomcat server
 
 ## Document
 
-## Link repository old:
+## Link to the old repository:  
 https://github.com/22130231-NguyenHoangQui/Project-Lap-Trinh-Web
