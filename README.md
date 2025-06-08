@@ -63,7 +63,6 @@ Start the Tomcat server
 
 
 ## Document
-https://docs.google.com/document/d/1kfVk-QBzbpvpNaklLHugt565zdZp-HvvDxuUkQFIdzY/edit?usp=sharing
 
 ## Link repository old:
 https://github.com/22130231-NguyenHoangQui/Project-Lap-Trinh-Web
